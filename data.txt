@@ -1,0 +1,20 @@
+2022-06-11 14:36:57,空条承太郎,kujo@starplatina.jp,male,age3,str3,str6,str11 
+2022-06-11 14:39:05,ジョセフ・ジョースター,joseph@caeeeeeesarrrrr.jp,male,age1,str1,str5,str7 
+2022-06-11 14:40:59,ブローノ・ブチャラティ,bruno@arrivederci.jp,male,age1,str3,str4,str10 
+2022-06-11 14:42:05,ジョルノ・ジョバァーナ,giorno@ventoauero.jp,male,age1,str2,str5,str9 
+2022-06-11 14:42:43,岸辺露伴,kishibe@rojansensei.jp,male,age2,str1,str4,str8 
+2022-06-11 14:43:39,Dio,roadroller@mudamudamuda.jp,male,age4,str1,str6,str9 
+2022-06-11 14:44:25,吉良吉影,killer@handlove.jp,male,age3,str3,str5,str11 
+2022-06-11 14:45:42,ジャン＝ピエール・ポルナレフ,Polnareff@Chariot.jp,male,age2,str1,str4,str9 
+2022-06-11 14:46:43,ナランチャ・ギルガ,herico@baka.jp,male,age1,str2,str4,str11 
+2022-06-11 14:47:57,空条徐倫,jolyne@oraoraora.jp,female,age1,str1,str6,str9 
+2022-06-11 14:49:13,Ermes Costello,kiss@FE40533.jp,female,age1,str3,str4,str8 
+2022-06-11 14:50:06,エリナ・ペンドルトン,nanio@surudaaaa.jp,female,age4,str1,str6,str9 
+2022-06-11 14:50:46,リサリサ,bimazyo@mama.jp,female,age3,str3,str4,str8 
+2022-06-11 14:51:23,Holy Kujo,holymama@yasashii.jp,female,age3,str1,str5,str7 
+2022-06-11 14:52:40,杉本 鈴美,rohanchan@ghost.jp,female,age2,str2,str4,str10 
+2022-06-11 14:53:23,Trish Una,spicegirl@trishihaorenandaaa.jp,female,age1,str3,str6,str8 
+2022-06-11 14:54:30,山岸由花子,lovedeluxe@koichidaisuki.jp,female,age1,str1,str5,str7 
+2022-06-11 15:33:36,川辺実希,miki.kawabe@mitsubishicorp.com,female,age1,str3,str5,str7 
+2022-06-12 02:49:59,Naraciso Anasui,onnananoka@otokokawakaran.jp,other,age1,str1,str4,str9
+
